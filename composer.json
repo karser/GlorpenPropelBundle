@@ -1,5 +1,5 @@
 {
-    "name": "glorpen/propel-bundle",
+    "name": "karser/glorpen-propel-bundle",
     "description": "Propel events and model extending for Symfony2.",
     "type": "symfony-bundle",
     "license": "GPL-3.0",
